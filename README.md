@@ -7,3 +7,4 @@ Using state-of-the-art neural network to generate visuals in helping kids in the
 #### Sketch-rnn: https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html
 
 
+#### QuickDraw Python API: https://quickdraw.readthedocs.io/en/latest/index.html
